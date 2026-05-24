@@ -1,6 +1,7 @@
 This program calculates the position functions of 2 spheres after they collide.
 
 <b>Input requirements</b>
+
 For each sphere, you need to know:
 - Mass in kg
 - Initial position function in m
